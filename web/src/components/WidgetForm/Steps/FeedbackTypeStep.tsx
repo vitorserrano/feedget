@@ -19,7 +19,7 @@ export const feedbackTypes = {
       alt: 'Imagem e uma lâmpada',
     },
   },
-  THOUGHT: {
+  OTHER: {
     title: 'Outro',
     image: {
       source: ThoughtImageUrl,
